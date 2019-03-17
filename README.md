@@ -40,4 +40,6 @@ Wikipedia links included
 #### Technologies
 - Html5
 - Css3
- <img src="https://github.com/sWrAAb/My_first_website/blob/master/Images/Screenshot1.png">
+ <img src="https://github.com/sWrAAb/My_first_website/blob/master/Images/Screenshot1.png" width="300px">
+ <img src="https://github.com/sWrAAb/My_first_website/blob/master/Images/Screenshot2.png" width="300px">
+ <img src="https://github.com/sWrAAb/My_first_website/blob/master/Images/Screenshot2.png" width="300px">
