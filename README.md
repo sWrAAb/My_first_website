@@ -34,7 +34,7 @@ My first web page contains Wikipedia links for program languages
 
  <img src="https://github.com/sWrAAb/My_first_website/blob/master/Images/Screenshot1.png" width="600px"></br>
  <img src="https://github.com/sWrAAb/My_first_website/blob/master/Images/Screenshot2.png" width="600px"></br>
- <img src="https://github.com/sWrAAb/My_first_website/blob/master/Images/Screenshot2.png" width="600px">
+ <img src="https://github.com/sWrAAb/My_first_website/blob/master/Images/Screenshot3.png" width="600px">
 
 
 #### Technologies
