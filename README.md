@@ -32,14 +32,12 @@ Wikipedia links included
 
 #### Screenshots
 
-<img src="images\Screenshot1.png" height="240px" width="240px">
-<img src="images\Screenshot2.png" height="240px" width="240px">
-<img src="images\Screenshot3.png" height="240px" width="240px">
+ <img src="https://github.com/sWrAAb/My_first_website/blob/master/Images/Screenshot1.png" width="600px"></br>
+ <img src="https://github.com/sWrAAb/My_first_website/blob/master/Images/Screenshot2.png" width="600px"></br>
+ <img src="https://github.com/sWrAAb/My_first_website/blob/master/Images/Screenshot2.png" width="600px">
 
 
 #### Technologies
 - Html5
 - Css3
- <img src="https://github.com/sWrAAb/My_first_website/blob/master/Images/Screenshot1.png" width="300px">
- <img src="https://github.com/sWrAAb/My_first_website/blob/master/Images/Screenshot2.png" width="300px">
- <img src="https://github.com/sWrAAb/My_first_website/blob/master/Images/Screenshot2.png" width="300px">
+
